@@ -5,7 +5,7 @@ Através desse script, Utilizaremo o OpenWhisk para fazer backup de workspaces d
 Para isso, basta seguir os passos abaixo:
 
 
-# Passo 1 — Criando Actions
+# Passo 1 — Criando Ações
 
 1 - Acesse o [console do OpenWhisk no Bluemix](https://console-regional.ng.bluemix.net/openwhisk/).
 
