@@ -1,6 +1,6 @@
 # Backup de Workspaces no Cloudant com OpenWhisk
 
-Através desse script, Utilizaremo o OpenWhisk para fazer backup de workspaces do Watson Assistant, salvando no banco Cloudant.
+Através desse script, Utilizaremos o OpenWhisk com NodeJs 10 para fazer backup de workspaces do Watson Assistant, salvando no banco Cloudant.
 
 Para isso, basta seguir os passos abaixo:
 
