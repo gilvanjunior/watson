@@ -1,4 +1,4 @@
-# Backpus de Workspaces no Cloudant com OpenWhisk
+# Backup de Workspaces no Cloudant com OpenWhisk
 
 Através desse script, Utilizaremo o OpenWhisk para fazer backup de workspaces do Watson Assistant, salvando no banco Cloudant.
 
