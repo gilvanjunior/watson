@@ -9,11 +9,11 @@ Para isso, basta seguir os passos abaixo:
 
 1 - Acesse o [console do OpenWhisk no Bluemix](https://console-regional.ng.bluemix.net/openwhisk/).
 
-2 - Faça o login e clique em "Start creating" para desenvolver a partir do seu web browser.
+2 - Faça o login e clique em "Iniciar criação" para desenvolver a partir do seu web browser.
 
-3 - Clique em "Create Action" e na página seguinte clique em "Create Package", defina um nome para seu pacote.
+3 - No menu "Ações" clique em "Criar" e na página seguinte clique em "Criar Ação". Caso deseje criar um pacote de incusão, defina um nome para seu pacote e clique em "Criar Pacote", em "tempo de execução" selecione a opção "Node.js 10".
 
-4 - Preencha todos os campos dessa página como apresentado na imagem:
+Preencha todos os campos dessa página como apresentado na imagem:
 
 !["Actions"](https://miro.medium.com/max/3638/1*LIw0izy3VZQyHwI0X9dACw.png)
 
