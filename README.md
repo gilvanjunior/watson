@@ -9,7 +9,7 @@ Para isso, basta seguir os passos abaixo:
 
 1 - Acesse o [console do OpenWhisk no Bluemix](https://console-regional.ng.bluemix.net/openwhisk/).
 
-2 - Faça o login e clique em "Iniciar criação" para desenvolver a partir do seu web browser.
+2 - Faça o login e clicando em "Iniciar criação".
 
 3 - No menu "Ações" clique em "Criar" e na página seguinte clique em "Criar Ação". Caso deseje criar um pacote de incusão, defina um nome para seu pacote e clique em "Criar Pacote", em "tempo de execução" selecione a opção "Node.js 10".
 
@@ -25,7 +25,7 @@ Preencha todos os campos dessa página como apresentado na imagem:
 
 3 - Defina os dias e horários que você deseja disparar a ação. ATENÇÃO! Na escolha da hora adicione sempre +3 ao horário que você deseja visto que eles consideram apenas o horário UTC. Você pode validar se o horário está correto visualizando a coluna da esquerda logo abaixo do item "Periodic".
 
-4 - Clique em "Criar e conectar".
+4 - Clique em "Criar e Conectar".
 
 !["Acionadores"](https://miro.medium.com/max/3810/1*e-yIr9jSSzbF-tBQBgM2Og.png) 
 
