@@ -19,15 +19,15 @@ Preencha todos os campos dessa página como apresentado na imagem:
 
 # Parte 2 — Criando Acionadores
 
-1 - Selecione a opção Triggers do menu esquerdo e clique em "Connect Trigger".
+1 - Selecione a opção "Acionadores conectados" do menu esquerdo e clique em "Incluir Acionador".
 
 2 - Clique em "Periodic".
 
 3 - Defina os dias e horários que você deseja disparar a ação. ATENÇÃO! Na escolha da hora adicione sempre +3 ao horário que você deseja visto que eles consideram apenas o horário UTC. Você pode validar se o horário está correto visualizando a coluna da esquerda logo abaixo do item "Periodic".
 
-4 - Clique em "Create & Connect".
+4 - Clique em "Criar e conectar".
 
-!["Triggers"](https://miro.medium.com/max/3810/1*e-yIr9jSSzbF-tBQBgM2Og.png) 
+!["Acionadores"](https://miro.medium.com/max/3810/1*e-yIr9jSSzbF-tBQBgM2Og.png) 
 
 # Parte 3 — Adicionando parâmetros
 
