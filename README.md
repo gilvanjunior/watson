@@ -24,10 +24,10 @@ Preencha todos os campos dessa página como apresentado na imagem:
 
 NodeJS
 
-!["LinkJS"](https://github.com/gilvanjunior/watson/blob/master/backup_assistant_cloudant.js) 
+[NodeJS](https://github.com/gilvanjunior/watson/blob/master/backup_assistant_cloudant.js) 
 Python
 
-!["LinkPY"](https://github.com/gilvanjunior/watson/blob/master/backup_assistant_cloudant.py) 
+[Python](https://github.com/gilvanjunior/watson/blob/master/backup_assistant_cloudant.py) 
 
 # Parte 2 — Criando Acionadores
 
