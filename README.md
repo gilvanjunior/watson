@@ -13,6 +13,8 @@ Para isso, basta seguir os passos abaixo:
 
 3 - No menu "Ações" clique em "Criar" e na página seguinte clique em "Criar Ação". Caso deseje criar um pacote de incusão, defina um nome para seu pacote e clique em "Criar Pacote", em "tempo de execução" selecione a opção "Node.js 10".
 
+Para python, utilize a opção "Python 3.7".
+
 Preencha todos os campos dessa página como apresentado na imagem:
 
 !["Actions"](https://miro.medium.com/max/3638/1*LIw0izy3VZQyHwI0X9dACw.png)
