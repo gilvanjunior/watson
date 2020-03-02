@@ -22,10 +22,7 @@ Preencha todos os campos dessa página como apresentado na imagem:
 
 4 - No menu "Código", de acordo com a Linguagem selecionada, insira o código:
 
-NodeJS
-
 [NodeJS](https://github.com/gilvanjunior/watson/blob/master/backup_assistant_cloudant.js) 
-Python
 
 [Python](https://github.com/gilvanjunior/watson/blob/master/backup_assistant_cloudant.py) 
 
