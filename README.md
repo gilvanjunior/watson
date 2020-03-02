@@ -19,6 +19,16 @@ Preencha todos os campos dessa página como apresentado na imagem:
 
 !["Actions"](https://miro.medium.com/max/3638/1*LIw0izy3VZQyHwI0X9dACw.png)
 
+
+4 - No menu "Código", de acordo com a Linguagem selecionada, insira o código:
+
+NodeJS
+
+!["LinkJS"](https://github.com/gilvanjunior/watson/blob/master/backup_assistant_cloudant.js) 
+Python
+
+!["LinkPY"](https://github.com/gilvanjunior/watson/blob/master/backup_assistant_cloudant.py) 
+
 # Parte 2 — Criando Acionadores
 
 1 - Selecione a opção "Acionadores conectados" do menu esquerdo e clique em "Incluir Acionador".
